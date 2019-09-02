@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="WebTableSample_Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/28/2019 16:02:19</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="WebTable_Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/28/2019 16:06:35</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="WebCrawl-PatternBot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/28/2019 16:59:24</Property>
+      <Property Name="RunDuration">00:00:18</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ReadingTxt_Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/29/2019 10:34:03</Property>
+      <Property Name="RunDuration">00:00:25</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ReadFromCsv_Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/29/2019 10:42:15</Property>
+      <Property Name="RunDuration">00:00:25</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Form_Raw_Filling_Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/29/2019 11:38:25</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Form_Filling_From_Csv_Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/29/2019 12:23:31</Property>
+      <Property Name="RunDuration">00:00:24</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="LogFileTxtToCsv.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/29/2019 16:11:36</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ReadExcel_Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/29/2019 13:47:45</Property>
+      <Property Name="RunDuration">00:00:22</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ReadExcelAtCondition.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/29/2019 14:05:03</Property>
+      <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ExcelToExcel.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/29/2019 15:03:27</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ManyCsvToOneCsvAtConditionEx1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/29/2019 16:22:43</Property>
+      <Property Name="RunDuration">00:00:09</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ManyCsvToExcelAtCondition.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/30/2019 14:45:50</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ImageToText-Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/30/2019 10:10:12</Property>
+      <Property Name="RunDuration">00:00:58</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ToDb-Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/30/2019 12:32:41</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ObjectCloning-Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/30/2019 13:49:48</Property>
+      <Property Name="RunDuration">00:00:32</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SmartRecorderBot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/30/2019 13:52:47</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SmartRecoder2-Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/30/2019 13:53:06</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="PdfToText-Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/30/2019 15:20:51</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Prompt-ClipBoard-Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/30/2019 15:41:06</Property>
+      <Property Name="RunDuration">00:00:14</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="exceptionsDemoEx1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/30/2019 15:56:36</Property>
+      <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ExceptionsDemoEx2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/30/2019 15:59:43</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ImageRecognition-Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/30/2019 16:28:00</Property>
+      <Property Name="RunDuration">00:00:16</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Xml-Bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/30/2019 17:36:23</Property>
+      <Property Name="RunDuration">00:00:07</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
